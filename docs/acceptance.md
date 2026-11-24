@@ -70,4 +70,4 @@ La aplicación se considerará aceptada cuando todos los criterios obligatorios 
 
 **Versión:** 1.0.0
 
-**Estado:** Propuesto para aprobación
+**Estado:** Aprobado

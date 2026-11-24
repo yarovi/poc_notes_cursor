@@ -128,4 +128,4 @@ La aplicación deberá inicializarse en la raíz del repositorio.
 
 **Versión:** 1.0.0
 
-**Estado:** Propuesto para aprobación
+**Estado:** Aprobado

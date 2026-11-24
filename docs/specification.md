@@ -129,4 +129,4 @@ La interfaz deberá adaptarse a dispositivos de escritorio y móviles.
 
 **Versión:** 1.0.0
 
-**Estado:** Propuesto para aprobación
+**Estado:** Aprobado

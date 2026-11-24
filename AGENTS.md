@@ -350,7 +350,7 @@ No deberá modificar las reglas del experimento ni los documentos aprobados sin 
 
 **Versión:** 1.0.0
 
-**Estado:** Propuesto para aprobación
+**Estado:** Aprobado
 
 **Metodología:** Spec-Driven Development simplificado
 
